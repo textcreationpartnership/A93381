@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wonderfull prophecyes revealed to Nicholas Smith shoe-maker, living at Tillington neer Petworth in Sussex, as he was about 30 years agoe in the house of one Vickers living in the Stert at Abbington in Barkshire; spoken to him by a man, whom he affirmeth as his Lord and Saviour, in the presence of the said Vickers (master of the inn) one Katharine Smith, one Carpenter's wife, and a maid-servant of the house, who all both saw the vision, and heard all the words of this prophesie. 1. Concerning his own life and conversation. 2. Concerning the Bible, and Book of Navigation. 3. Concerning the day of Restauration of the creatures, to be on New-years Day next, 1653. 4. Concerning this nation, and the whole world in generall. Manifested unto me Nicholas Smith on Matthias Day last, by a spirit from God; and am now come up to London to doe the work I am commanded, and lie at the signe of the Flying-Horse in Thames-street, where I will by the grace of God be ready to attest to the truth hereof with my life.</title>
+            <author>Smith, Nicholas, d. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93381</idno>
+            <idno type="STC">Wing S4141</idno>
+            <idno type="STC">Thomason E683_5</idno>
+            <idno type="STC">ESTC R206805</idno>
+            <idno type="EEBO-CITATION">99865911</idno>
+            <idno type="PROQUEST">99865911</idno>
+            <idno type="VID">118166</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118166)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E683[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wonderfull prophecyes revealed to Nicholas Smith shoe-maker, living at Tillington neer Petworth in Sussex, as he was about 30 years agoe in the house of one Vickers living in the Stert at Abbington in Barkshire; spoken to him by a man, whom he affirmeth as his Lord and Saviour, in the presence of the said Vickers (master of the inn) one Katharine Smith, one Carpenter's wife, and a maid-servant of the house, who all both saw the vision, and heard all the words of this prophesie. 1. Concerning his own life and conversation. 2. Concerning the Bible, and Book of Navigation. 3. Concerning the day of Restauration of the creatures, to be on New-years Day next, 1653. 4. Concerning this nation, and the whole world in generall. Manifested unto me Nicholas Smith on Matthias Day last, by a spirit from God; and am now come up to London to doe the work I am commanded, and lie at the signe of the Flying-Horse in Thames-street, where I will by the grace of God be ready to attest to the truth hereof with my life.</title>
+                  <author>Smith, Nicholas, d. 1680.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Yeer. 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou. 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118166:1" rendition="simple:additions"/>
+            <p> Wonderfull PROPHECYES REVEALED TO NICHOLAS SMITH Shoe-maker, Living at Tillington neer Petworth in SUSSEX,</p>
+            <p>As he was about 30 Years agoe in the Houſe of one <hi>Vickers</hi> living in the <hi>Stert</hi> at <hi>Abbington</hi> in <hi>Barkeſhire;</hi> ſpoken to him by a Man, whom he affirmeth was his Lord and Saviour,</p>
+            <p>
+               <hi>In the preſence of the ſaid</hi> Vickers (maſter of the <hi>Inn</hi>) <hi>one</hi> Ka<g ref="char:EOLhyphen"/>tharine Smith, <hi>one</hi> Carpenter's <hi>Wife, and a Maid-ſervant of the Houſe, who all both ſaw the</hi> Viſion, <hi>and heard all the words of this</hi> Propheſie.</p>
+            <list>
+               <item>1. <hi>Concerning his own life and converſation.</hi>
+               </item>
+               <item>2. <hi>Concerning the</hi> Bible, <hi>and</hi> Book <hi>of</hi> Navigation.</item>
+               <item>3. <hi>Concerning the day of</hi> Reſtauration <hi>of the</hi> Creatures, <hi>to be on</hi> New-years Day <hi>next,</hi> 1653.</item>
+               <item>4. <hi>Concerning this Nation, and the whole World in generall.</hi>
+               </item>
+            </list>
+            <p>Manifeſted unto me <hi>Nicholas Smith</hi> on <hi>Matthias Day</hi> laſt, by a Spirit from God; and am now come up to <hi>London</hi> to doe the Work I am commanded, and lie at the ſigne of the <hi>Flying-Horſe</hi> in <hi>Thames-ſtreet,</hi> where I will by the Grace of God be ready to atteſt the truth hereof with my life.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeer. 1652.</p>
+            <pb facs="tcp:118166:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="prophecy">
+            <pb n="3" facs="tcp:118166:2"/>
+            <head>VVonderfull PROPHECIES.</head>
+            <p>IN the latter end of the reign of King <hi>James,</hi> at <hi>Abbington</hi> in <hi>Barkeſhire,</hi> being at one <hi>Vickers</hi> his Houſe in the <hi>Stert,</hi> I ſaw a Man that told me the things that ſhould happen unto this Kingdom; One remarkable thing was, <hi>One</hi> Ar<g ref="char:EOLhyphen"/>my <hi>ſhould lye at</hi> Abbington, <hi>and another Army at</hi> Oxford, <hi>and,</hi> That theſe two ſhould fight one againſt another; but God would judge them for their Brothers <hi>blood;</hi> He told me ma<g ref="char:EOLhyphen"/>ny remarkable things concerning my own <hi>Converſation</hi> which have already come to paſſe, and many things that are yet to come, which is admirable; many things are yet to come to paſſe concerning the whole World; He told me, <hi>That all the</hi> Bookes <hi>in the World ſhould be taken away from the uſe of man,</hi> the Reaſon was ſhewed me, <hi>ſome had Bookes, but they would have no body but them<g ref="char:EOLhyphen"/>ſelves to read in them, therefore they ſhall have none to read in; ſome ſaid they were</hi> Litterall, <hi>therefore they ſhall not have a</hi> Letter <hi>to ſee; ſome</hi> ſay, They muſt be more ſpirituall, they ſhall have 5 Yeers time to Exercize the Gifts of the Spirit; At that time the Crea<g ref="char:EOLhyphen"/>ture ſhall be delivered from the vain Converſation of men that are now ſubject unto vanity; Every one muſt confeſſe their ſins one to another; Every Woman that bares Children, muſt after that time confeſſe the true Father of them; he muſt take them home, and keep them whilſt they are young, and they muſt work for him when he is old: at that day, every one will be in perplexity, God judgeth every man according to his workes, all men ſhall be judged accorning unto him that earneth but 10d. a day; if one earn 2<hi>s.</hi> 6d. a day, he muſt worke three times ſo hard, elſe he will be judged for a Thief; He appointed me to make Paper according to his direction, and to preſent it to him whom they that love him not, call him their King; and bid me
+<pb n="4" facs="tcp:118166:3"/> tell him, That He ſhall cauſe the Scripture to be Printed in that Paper; <hi>tell him,</hi> There are great abominations committed in the Land; ſome men finde fault with the Pride of other men that ride in <hi>Coaches,</hi> yet pull them out, and go into them themſelves in the ſight of the People, and the People finde fault with it, if he will not hear thee, carry it to the <hi>Speaker,</hi> tell him what he ſhall do with it; if he neglect it, tell the <hi>Major</hi> and the <hi>Sheriffe</hi> of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, carry it to the <hi>Exchange,</hi> and give it to the <hi>Mercbants</hi> freely, if they neglect thee, it will be ill for them all; get one to go with thee to ſet men at worke, make a Boxe, let him carry it, ſee that thou doe not touch it, if there be a Stone-wall before thee, if the wall remove, thou muſt go forward; adviſe them in the Cities to carry their neceſſary goods into the Country, God will not have ſo many to live ſo neer togeth<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, every man ſhall be reſto<g ref="char:EOLhyphen"/>red to the condition as <hi>Adam</hi> was after his fall, he was aſhamed of his ſinnes, humbled himſelf before God; but men are fallen ſo far now, they ſin in the preſence of God, ſaying, They will con<g ref="char:EOLhyphen"/>feſs their ſins to God, yet Act it in his Preſence, and are proud of it; Ask them if they know God in their own boſome? ask them if they know the Image wherein they were created? adviſe all men that they ſpoile not <hi>Barly,</hi> for they muſt learn to drinke <hi>water,</hi> they ſhould do good to their Enemies, they ſhould feed them, but they will not feed their Children for fear their ene<g ref="char:EOLhyphen"/>mies ſhould eate part of it; they had rather plant Thornes and Bryers, then to plant fruit-trees; they ſhould have repaired that which Sathan defaced, if they had planted Fruit-trees in the fields, they might have had the leaves of them; thou ſhalt ſee a Cart-load of Skins, being Records; Prophecy againſt them, ſay they ſhall bear record no longer, Prophecy to them on the right hand, and on the left, Tell them, they ſhould take heed, the place where they ſit ſhall burn like a furnance, they think they can eaſily get forth, but they that are withoutſide ſhall keep them in; <hi>Chancery</hi> there will be new money, at that place beate out the ſtampe which was before; <hi>ſay,</hi> He knows what it is to be a King? <hi>Ceſar</hi> muſt account for what he hath taken more then what is his, The Kings of the Earth make money, and buy ſuch things as they lack, and when they lack money, they ſend for it again, Tell them how they ſhall agree with their Adverſaries that would make Peace with them; Give them Peace-offerings rather then take any Impoſe upon them the Goſpel, as all men
+<pb n="5" facs="tcp:118166:3"/> may underſtand it; ſhew them how they ſhould ſubdue all their enemies under them, kill none of them, but take oppor<g ref="char:EOLhyphen"/>tunity to do them good; you can ſend a man a thouſand Miles, and he findeth him to whom you ſend; you finde not the way way to <hi>Jeſus Chriſt:</hi> I have ſought Counſell and Inſtruction of the wiſe and Learned men of this Kingdom, whom this Perſon that appeared to me may be, but they all refuſe to give me In<g ref="char:EOLhyphen"/>ſtruction; when all men neglected me, the Lord manifeſted him<g ref="char:EOLhyphen"/>ſelf unto me, entring into me by the Power of the Spirit, judge<g ref="char:EOLhyphen"/>ing of me what I had done in the fleſh, manifeſting himſelf to be my ſalvation, whom I ſaw at <hi>Abington:</hi> the manner of the comming of the Spirit of the Lord Jeſus upon me, was by touch<g ref="char:EOLhyphen"/>ing lightly the haire of my head, ſo ſoaking down into my head, it made all my necke and ſhoulders to riſe; after two hours, it entred into my ſoul; whereupon I being in great fear and trouble, cryed unto my Lord and Saviour, beſeeching him to interceed for me unto God my heavenly Father, and I heard a voice to my underſtanding, ſaying, <hi>Thou doſt not pray;</hi> my An<g ref="char:EOLhyphen"/>ſwer was, <hi>Lord thou knowſt I do pray:</hi> he anſwered again, <hi>not with all thy heart;</hi> I intreated the Lord to ſearch my heart, and try it, feelingly it removed from the Place where it was, to my heart, bringing my Prayers to remembrance, <hi>asking me,</hi> Whether God would except of ſuch Prayers as I had prayed formerly, I was queſtioned of all the intents and purpoſes of my heart, what I had done, and what I intended to do, asking me, Wherefore I did work? anſwering him, I told him to live; he ſaid to me, <hi>That I was not willing to die to live with Chriſt;</hi> I ſaid, I waited the Plea<g ref="char:EOLhyphen"/>ſure of the Lord, I was adjudged for the Tranſgreſſion of the whole <hi>Law</hi> of God, and for oppoſition againſt the Government of my Lord and Saviour <hi>Jeſus Chriſt;</hi> my underſtanding was o<g ref="char:EOLhyphen"/>pened, and I was ſhewed what it was, and I was ſhewed his Go<g ref="char:EOLhyphen"/>vernment, and what it was. He told me, I ſhould be firſt up in my family, and laſt abed; I ſhould ſee all things in good Or<g ref="char:EOLhyphen"/>der in the morning, I ſhould cauſe all my family to come toge<g ref="char:EOLhyphen"/>ther, cauſe a Chapter to be read, and pray with them and for them, I ſhould earn my own bread, and fetch my own Water; I muſt give to every one rather then receive, I ſhould uſe as much as I could of the Talent which God gave me, but as little as I could of that which is committed unto <hi>Sathan;</hi> Gods Talent is a reaſonable underſtanding ſoul, which every one ought to im<g ref="char:EOLhyphen"/>prove
+<pb n="6" facs="tcp:118166:4"/> to the glory of God, the good of himſelf and others; that which is committed to <hi>Sathan,</hi> is the earth and the glory thereof, I was judged for emnity againſt God my heavenly Father, I acknow<g ref="char:EOLhyphen"/>ledged it was true, I was asked then, How I thought to ſcape the damnation of hell? I ſaid it was that <hi>wound</hi> which we recei<g ref="char:EOLhyphen"/>ved in our firſt Parents, and it coſt the precious blood of my Lord and Saviour: It was asked me, Whether I had no other hope? I anſwered, <hi>No,</hi> There was no other Name under heaven whereby I may be ſaved: And I ſaid, I knew, if my Lord and Saviour was pleaſed to apply one plaiſter of his precious blood with his own hand to this my wound, which was a pain upon the midſt of my belly: immediately upon my Faith and con<g ref="char:EOLhyphen"/>fidence the pain departed from me; then I gave thanks to my Lord and Saviour: he ſaid, yet thou mayeſt ſin a ſin and be damned: I intreated him to tell me what it was, he opened my underſtanding and ſhewed me what it was, and ſhewed me the revelation where it is to be found: Take heed that ye are not aſhamed to behold the appearing of my Lord and Saviour Jeſus Chriſt, glory, honour, and worſhip to his holy Name for ever.</p>
+            <p>Would you not have me tell you what God hath done for my ſoul: I wiſh that all men did fear the Lord.</p>
+            <p>I have ſought the Counſel of ſeveral Miniſters this many years; I ſpoke of it to Mr. <hi>Hilton</hi> Miniſter of <hi>Billinghurſt</hi> in <hi>Suſſex</hi> 14. years ſince, and divers of his neighbours: I asked ſeven Miniſters at one time, what I might do to be ſaved; they ſaid it was a neceſſary queſtion to be asked, but they ſaid it was not the buſineſſe of the day, therefore they deferred it, but ſaid it ſhould be anſwered; the time paſt one year, I deſired to be ſatisfied of ſome inſtructions of the Scripture by ſome learned men; and deſiring them to tell me whom they thought he might be that ſpoke to me at <hi>Abington;</hi> I invited Doctor <hi>Chanel</hi> to my houſe, and twelve Miniſters beſides to try my Faith, whe<g ref="char:EOLhyphen"/>ther it was rightly grounded upon the Word of God accord<g ref="char:EOLhyphen"/>ing unto his will; and I deſired them to tell me whom they thought it might be that told me all things remarkable that had and ſhould happen unto me; he ſaid that there was no man able to tell me ſuch things; he ſaid I was deluded: I told him how he ſhould know whether I was or not, for he bid me invite you to my houſe, but he ſaid you would not come; if you would
+<pb n="7" facs="tcp:118166:4"/> come to morrow then I ſhall think that I am deluded; when the morrow was come, there came never a man which I invited. My Lord and Saviour told me 28. years before, there would a Miniſter ſend me word that he would come to me upon a <hi>Tueſday,</hi> he ſaid I ſhould take heed, for he was the Devil; he ſaid make thy Will, ſet thy houſe in Order, make clean thy houſe, humble thy ſelf before God, fetch a burthen of Straw, and lie naked in it all night: ſo I cauſed Doctor <hi>Chanel</hi> to make my Will; I lay in the ſtraw, a Miniſter came to perſwade me that I ſhould grant him one thing before I knew what it was; that I ſhould put no more truſt in my Lord and Saviour which I ſpake with at <hi>Abington;</hi> then I remembred four men that was aſſigned unto me, which were Miniſters, I was appointed to go to them and command them to chuſe two a piece, whom they pleaſed, and come to my houſe and Judge me, and things which I ſhould make known unto them; I was appointed to chooſe a Witneſs in the morning before they came, and tell him what they would ſay when they did come, and what I was appoint<g ref="char:EOLhyphen"/>ed to do, and ſay to them: I asked four queſtions in ſeven years; the firſt was, <hi>How I ſhould be born again;</hi> the ſecond was, <hi>What I ſhould do to be ſaved:</hi> the third queſtion was, <hi>The hones of the Paſchal Lamb being not broken, whether it ſignifieth any thing in our days or not:</hi> The fourth, <hi>If a man take his wife in the Act of Adultery, whether he ought to put her away or not?</hi> But they gave me no ſatisfactory anſwtr; one was angry with me, becauſe I ſaid that a man could not be born of the water of Baptiſm. I thank the Lord he hath ſatisfied me that all men that will enter into his government, muſt be born up by his Word and by his Spirit: he that will be ſaved muſt be zealous of the honour and glory of <hi>Jeſus Chriſt</hi> which was crucified at <hi>Jeruſalem;</hi> they that will be his body muſt keep his inſtructions; they that will be his Sponſe ſhould not joyn themſelves unto an Harlot; ye that have received the firſt fruits of the Spirit, ſigh and groan within your ſelves, waiting for the maniſeſtation of the Sons of God, to wit, the redemption of our bodies, I mean our deliverance from the power of Tyrannie, which forceth us to kill our enemies, ſometimes our friends for their will and pleaſure: our Lord hath ſhewed that we ſhould do good unto our enemies, and then we ſhould do good unto our friends. After the day of Reſtauration, the Horſes, the Kine, and thoſe
+<pb n="8" facs="tcp:118166:5"/> neceſſary Creatures will be ſubject unto none but unto thoſe that are ſubject unto <hi>Jeſus Chriſt:</hi> and men ſhall be known to be Chriſtians by the gifts of God; the Creatures will be ſub<g ref="char:EOLhyphen"/>ject unto them, as it is ſaid, <hi>The Creature ſhall be delivered into the glorious Liberty of the ſons of God:</hi> Men of <hi>England,</hi> ſubject your ſelves unto the Goſpel and Government of our Lord and Saviour Jeſus Chriſt, as it is briefly made manifeſt in the four Evangeliſts; leſt the Creature be delivered from uſe and com<g ref="char:EOLhyphen"/>fort of this Nation, know the only true God in your own bo<g ref="char:EOLhyphen"/>ſom, know that the Spirit of the Lord is in you accuſing or excuſing: Whether your actions be good or evil, know Origi<g ref="char:EOLhyphen"/>nal righteouſneſs; <hi>For this is eternal life, that ye know the only true God in your own boſoms, and Jeſus Chriſt whom he hath ſent.</hi> My Lord ſhewed me that it was very dangerous to die in debt; we ſhould agree with our adverſaries while we are in the way; if any man treſpaſs againſt us we ſhould forgive him, and do him ſome good: my Lord ſhewed me the Angels were very rational, and looked upon us as we look one upon ano<g ref="char:EOLhyphen"/>ther, and judge our love unto our God; As we like the Work<g ref="char:EOLhyphen"/>manſhip of his hands, they are offended becauſe we like not the form which he hath made: we ſhew God that we would have him make Horſes without tails, and ſome without ears; our own Toes all of a length, juſt ſtrait and ſquare; ſome feet a little forked; our heads and knees bigger; our arms as big at the hands as they are at the ſhoulders: the wood which God giveth us to build our houſes we like it not of that colour, but make it of ſome other, ſtill ſhewing our diſlike.</p>
+            <p>
+               <hi>Lord have mercy upon us, The</hi> Whore of Babylon <hi>knows no more how to be born again then</hi> Nicodemus.</p>
+            <p>
+               <hi>Husbandmen Plow and Sowe, whileſt you have cattel, for the day of Reſtauration is on</hi> New-years-Day <hi>next coming.</hi>
+            </p>
+            <p>¶ <hi>I have divers other things to reveal concerning the World, the Sea, and this Nation; I have made Paper, and brought it up to London; and have put the Bible to Print in that Paper, and am about to get the moſt uſefull Book of</hi> Navigation <hi>written out, or Printed, as I was com<g ref="char:EOLhyphen"/>manded by my Lord and Saviour; But I am confin'd to this ſheet; and ſo end.</hi>
+            </p>
+            <p>
+               <hi>All glory and worſhip be unto GOD, and unto</hi> Jeſus Chriſt <hi>our onely Lord and Saviour for evermore,</hi> Amen.</p>
+            <closer>
+               <signed>By me NICHOLAS SMITH.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
